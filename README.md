@@ -1,7 +1,8 @@
 # 제품 불량률 예측
  - Samsung SDS Brightics AI Academy 공모전
  - metrics는 WMAE
- $ WMAE = \frac{1}{\sum{w_i}} \sum {i=1} {n} {w_i | y_i - \hat {y_i} | }
+ 
+ $ WMAE = \frac{1}{\sum{w_i}} \sum {i=1} {n} {w_i | y_i - \hat {y_i} | } $
  
 ## 1. EDA
 - Outlier
